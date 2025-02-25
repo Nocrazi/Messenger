@@ -1,0 +1,8 @@
+# Файлы и каталоги, создаваемые Visual Studio
+ConsoleApplication1.*
+
+Console*/
+x64/
+
+# Мои файлы и каталоги
+*.gitigore
